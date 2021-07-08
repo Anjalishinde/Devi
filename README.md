@@ -4,6 +4,12 @@ The availability of a community forum for people to share their experiences from
 Another important feature that we intend on using is the chatbot. This helps in one on one interactions between any girl and healthcare pro.
 ![image](https://user-images.githubusercontent.com/73609612/124933253-5f290b00-e021-11eb-92a9-c20079de1122.png)
                              Dashboard
+                             
+                             
 ![image](https://user-images.githubusercontent.com/73609612/124933337-6ea85400-e021-11eb-9f11-68f5bf9ca51e.png)
                              Database of administrator
+                             
+                             
 
+![image](https://user-images.githubusercontent.com/73609612/124933612-a6af9700-e021-11eb-9c9f-c014355ad5f4.png)
+                                     Language Variant 
